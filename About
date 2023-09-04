@@ -1,0 +1,27 @@
+# Portugal Bank Marketing Dataset Analysis
+
+## Overview
+This repository contains a comprehensive analysis of the Portugal Bank Marketing dataset, split into two parts:
+
+### Part 1: Classification Model
+In the first notebook (`Part-1_Classification_Model.ipynb`), we delve into a classification task. We explore the dataset, preprocess the data, build, and evaluate a classification model. This model is designed to predict whether a client will subscribe to a term deposit based on various features.
+
+### Part 2: Monthwise Market Analysis (Time Series)
+In the second notebook (`Part-2_Monthwise_Market_Analysis.ipynb`), we shift our focus to time series analysis. Here, we perform a detailed monthwise analysis of market trends and patterns. By leveraging time series techniques, we uncover valuable insights into the bank's marketing performance over time.
+
+## Notebooks and Resources
+- [`Part-1_Classification_Model.ipynb`](Part-1_Classification_Model.ipynb): Classification model notebook.
+- [`Part-2_Monthwise_Market_Analysis.ipynb`](Part-2_Monthwise_Market_Analysis.ipynb): Time series analysis notebook.
+- [`data/`](data/): Directory containing the dataset used in the analysis.
+
+## Usage
+Feel free to explore each notebook to gain insights into the classification model and the monthwise market analysis. These notebooks can be used as a valuable reference for similar tasks and analyses.
+
+## Dependencies
+Both notebooks are implemented in Python and utilize common data science libraries. You can install the necessary packages using `pip` or `conda` by referencing the `requirements.txt` file.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+The data used in this analysis is sourced from the Portugal Bank Marketing dataset, which is publicly available and widely used for educational and research purposes.
